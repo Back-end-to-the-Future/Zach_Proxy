@@ -5,9 +5,9 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 const port = 3000;
 
 // questions and answers
-const qaUrl = 'http://ec2-13-59-64-142.us-east-2.compute.amazonaws.com/';
+const qaUrl = ' http://ec2-13-59-64-142.us-east-2.compute.amazonaws.com/';
 // ratings and reviews
-const rrUrl = 'http://ec2-54-172-55-163.compute-1.amazonaws.com';
+const rrUrl = 'http://ec2-54-161-227-32.compute-1.amazonaws.com';
 // overview
 const ovUrl = 'http://ec2-35-165-217-158.us-west-2.compute.amazonaws.com';
 // related products
