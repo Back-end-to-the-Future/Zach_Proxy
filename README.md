@@ -1,12 +1,10 @@
-# Project Name
-
-> Proxy Server for Project Greenfield for team KWRN.
+# Proxy Server
 
 ## Related Projects
 
   - https://github.com/Back-end-to-the-Future/product-overview
   - https://github.com/Back-end-to-the-Future/ratings-and-reviews-module
-  - https://github.com/Back-end-to-the-Future/Zach_Proxy
+  - https://github.com/Back-end-to-the-Future/QandA_Module
 
 ## Table of Contents
 
